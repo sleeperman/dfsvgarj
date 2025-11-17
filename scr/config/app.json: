@@ -1,1 +1,6 @@
+{
+"debug": true,
+"port": 8080,
+"max_upload_size":75
+}
 
